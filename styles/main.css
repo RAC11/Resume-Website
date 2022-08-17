@@ -88,9 +88,10 @@ li{
 
 #socials--list{
     display: flex;
-    justify-content: space-between;
     column-gap: 1em;
     flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 6em;
 }
 
 #socials--list a{
@@ -106,18 +107,19 @@ li{
     font-size: 0.9em;
 }
 
-#qualifications--list{
+#skills--list{
     list-style: none;
+    padding-left: 5em;
 }
 
-#wrapper--techstack__items{
+#wrapper--technical__items{
     display: flex;
     flex-wrap: wrap;
     gap: 1em;
     font-size: 0.9em;
 }
 
-.card--techstack{
+.card--technical{
     border: 1px solid var(--mainBorderColor);
     border-radius: 5px;
     padding: 0.5em 1em;
