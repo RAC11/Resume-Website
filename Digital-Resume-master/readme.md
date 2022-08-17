@@ -6,15 +6,15 @@ View live demo here using github pages: [Live Demo](https://github.com/RAC11/Res
 
 ## Dark Mode Preview
 
-<img src="assets\images\dark mode preview.PNG">
+<img src="Darkmode.jpg">
 
 ## Light Mode Preview
 
-<img src="assets\images\light mode preview.PNG">
+<img src="Lightmode.jpg">
 
 ## Switching between color themes
 
-This website has no auto toggle theme switcher, therefor to change themes you must manual go into `/styles/main.css` and the css variables to use either theme. Default is dark, so do the following here:
+This website has no auto toggle theme switcher, therefor to change themes you must manual go into `main.css` and the css variables to use either theme. Default is dark, so do the following here:
 
 ```css
 --mainTextColor: var(--mainTextColor-light);
