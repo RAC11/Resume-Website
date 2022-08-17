@@ -90,6 +90,7 @@ li{
     background-color:#131415;
     border-color: #131415;
     border-style: none;
+    cursor: pointer;
 }
 
 #socials--list{
