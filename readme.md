@@ -6,11 +6,11 @@ View live demo here using github pages: [Live Demo](https://github.com/RAC11/Res
 
 ## Dark Mode Preview
 
-<img src="Darkmode.jpg">
+<img src="assets\images\Darkmode.jpg">
 
 ## Light Mode Preview
 
-<img src="Lightmode.jpg">
+<img src="assets\images\Lightmode.jpg">
 
 ## Switching between color themes
 
