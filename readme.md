@@ -1,9 +1,9 @@
 # Rylan Reese Resume
 
 A digital portfolio based on the content from my
-![resume](./assets/RylanReeseResume2022.pdf)
+[resume](./assets/RylanReese_Resume2022.pdf)
 
-View live demo here using github pages: [Live Demo](https://github.com/RAC11/Resume-Website/settings/pages)
+View live demo here using github pages: [Live Demo](https://github.com/RAC11/Resume-Website)
 
 ## Dark Mode Preview
 
