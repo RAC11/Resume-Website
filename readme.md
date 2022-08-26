@@ -1,16 +1,17 @@
 # Rylan Reese Resume
 
-A digital resume website built based on the content from my personal REAL [resume](RylanReese_Resume2022.pdf)
+A digital portfolio based on the content from my
+![resume](./assets/RylanReeseResume2022.pdf)
 
 View live demo here using github pages: [Live Demo](https://github.com/RAC11/Resume-Website/settings/pages)
 
 ## Dark Mode Preview
 
-<img src="assets\images\Darkmode.jpg">
+![Theme extension](./assets/images/Darkmode.jpg)
 
 ## Light Mode Preview
 
-<img src="assets\images\Lightmode.jpg">
+![Theme extension](./assets/images/Lightmode.jpg)
 
 ## Switching between color themes
 
