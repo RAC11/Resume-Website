@@ -5,9 +5,6 @@ A digital portfolio based on the content from my
 
 View live demo here using github pages: [Live Demo](https://github.com/RAC11/Resume-Website)
 
-<figure class="video_container">
-<iframe src="https://docs.google.com/spreadsheets/d/1jAnvYpRmNu8BISIrkYGTLolOTmlCoKLbuHVWzCXJSY4/pubhtml?widget=true&amp;headers=false"></iframe>
-</figure>
 ## Dark Mode Preview
 
 ![Theme extension](./assets/images/Darkmode.jpg)
