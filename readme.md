@@ -5,8 +5,8 @@ A digital portfolio based on the content from my
 
 View live demo here using github pages: [Live Demo](https://github.com/RAC11/Resume-Website)
 
-<figure class=videoContainer>
-<iframe src="https://rac11.github.io/Random-Choice-Picker/" width="500" height="500" title="Random Choice Picker"></iframe>
+<figure class="video_container">
+<iframe src="https://docs.google.com/spreadsheets/d/1jAnvYpRmNu8BISIrkYGTLolOTmlCoKLbuHVWzCXJSY4/pubhtml?widget=true&amp;headers=false"></iframe>
 </figure>
 ## Dark Mode Preview
 
