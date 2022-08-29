@@ -3,7 +3,7 @@
 A digital portfolio based on the content from my
 [resume](./assets/RylanReese_Resume2022.pdf)
 
-View live demo here using github pages: [Live Demo](https://github.com/RAC11/Resume-Website)
+View live demo here using github pages: [Live Demo](https://rac11.github.io/Resume-Website/)
 
 ## Dark Mode Preview
 
